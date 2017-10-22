@@ -1,0 +1,47 @@
+#farm{
+    border: 3px solid black;
+    width: 200px;
+    height: 150px;
+    text-align: center;
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 250px;
+}
+#cave{
+    border: 3px solid black;
+    width: 200px;
+    height: 150px;
+    text-align: center;
+    display: inline-block;
+}
+#house{
+    border: 3px solid black;
+    width: 200px;
+    height: 150px;
+    text-align: center;
+    display: inline-block;
+}
+#casino{
+    border: 3px solid black;
+    width: 200px;
+    height: 150px;
+    text-align: center;
+    display: inline-block;
+}
+.subtitle{
+    text-align: center;
+}
+.errors{
+	color: red;
+	display: inline-block;
+}
+.success{
+	color: green;
+	display: inline-block;
+}
+.earn {
+	color: green;
+}
+.lost {
+	color: red;
+}
